@@ -1,0 +1,16 @@
+{
+  "model_name": "LinearSVC",
+  "dataset": "SetFit/enron_spam",
+  "metrics": {
+    "Accuracy": 0.9921221073362876,
+    "Precision": 0.990743914981145,
+    "Recall": 0.9927859841978701,
+    "F1": 0.9917638984214139,
+    "ROC-AUC": 0.9994242562887559
+  },
+  "label_map": {
+    "0": "ham",
+    "1": "spam"
+  },
+  "sklearn_version": "1.6.1"
+}

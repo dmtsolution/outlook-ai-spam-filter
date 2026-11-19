@@ -75,7 +75,7 @@ requirements.txt                 Dépendances Python du serveur local
 
 ## Installation et utilisation
 
-### 1. Entraîner le modèle (optionnel — un modèle déjà entraîné est fourni dans `model/`)
+### 1. Entraîner le modèle (optionnel - un modèle déjà entraîné est fourni dans `model/`)
 
 1. Importer `notebook/spam_classifier_kaggle.ipynb` sur Kaggle.
 2. Activer l'accès Internet dans les paramètres du notebook (le GPU n'est pas nécessaire : le modèle retenu est un modèle linéaire sur représentation TF-IDF).
